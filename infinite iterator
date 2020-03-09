@@ -3,4 +3,4 @@ for i in count(10, 10):
     if i == 100: 
         break
     else:
-        print(i)
+        print(i, end =" ")
